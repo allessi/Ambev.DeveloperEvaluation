@@ -1,0 +1,14 @@
+# Ignorar configurações do Visual Studio
+.vs/
+
+# Ignorar arquivos de build
+bin/
+obj/
+debug/
+release/
+
+# Ignorar arquivos de log e cache
+*.log
+*.user
+*.suo
+*.cache

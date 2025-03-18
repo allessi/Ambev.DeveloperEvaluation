@@ -28,3 +28,4 @@ C:\src\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEv
 C:\src\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\refint\Ambev.DeveloperEvaluation.Domain.dll
 C:\src\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.pdb
 C:\src\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\ref\Ambev.DeveloperEvaluation.Domain.dll
+C:\src\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.Domain\obj\Debug\net8.0\Ambev.DeveloperEvaluation.Domain.sourcelink.json

@@ -40,3 +40,4 @@ C:\src\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEv
 C:\src\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.IoC\obj\Debug\net8.0\refint\Ambev.DeveloperEvaluation.IoC.dll
 C:\src\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.IoC\obj\Debug\net8.0\Ambev.DeveloperEvaluation.IoC.pdb
 C:\src\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.IoC\obj\Debug\net8.0\ref\Ambev.DeveloperEvaluation.IoC.dll
+C:\src\abi-gth-omnia-developer-evaluation\template\backend\src\Ambev.DeveloperEvaluation.IoC\obj\Debug\net8.0\Ambev.DeveloperEvaluation.IoC.sourcelink.json
