@@ -2,10 +2,11 @@
 .vs/
 
 # Ignorar arquivos de build
-bin/
-obj/
-debug/
-release/
+**/bin/
+**/obj/
+**/debug/
+**/Debug/
+**/release/
 
 # Ignorar arquivos de log e cache
 *.log
